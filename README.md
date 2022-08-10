@@ -16,6 +16,7 @@ Projekt został stworzony w z wykorzystaniem:
 * Keras
 * OpenCV
 * Scikit Learn
+* Pickle
 	
 ## Opis
 W repozytorium znajduje się 6 notatników:
